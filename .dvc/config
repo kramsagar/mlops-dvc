@@ -1,0 +1,4 @@
+[core]
+    remote = myremotedvcmlops
+['remote "myremotedvcmlops"']
+    url = s3://mlopsdemo-dvc
