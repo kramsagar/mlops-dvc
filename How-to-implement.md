@@ -12,3 +12,5 @@
 
 6. dvc push
     dvc push    
+
+<video controls src="20251219-0846-49.9052651.mp4" title="Title"></video>
